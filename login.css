@@ -9,7 +9,6 @@ html,body{
     display: flex;
     justify-content: center;
     align-items: center;
-    
     background-color: rgba(173, 173, 173, 0.05);
     
 }
@@ -24,8 +23,7 @@ html,body{
     display: flex;
     flex-direction: column;
     align-items: center;
-
-    box-shadow: 5px 5px 5px #88888842
+    box-shadow: 5px 5px 5px #88888842;
 }
 
 form {
