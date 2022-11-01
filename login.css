@@ -60,3 +60,8 @@ button {
 button:hover {
     transform: scale(1.1);
 }
+
+.checkbox {
+    flex-flow: row nowrap;
+    align-items: baseline;
+}
